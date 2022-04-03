@@ -1,0 +1,20 @@
+2022-04-03 21:58:56,946 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-7 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2022-04-03 21:58:56,950 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-7 - Application started (Dev) (no global state)
+2022-04-03 22:02:40,355 [DEBUG] from application.ErrorHandler in application-akka.actor.default-dispatcher-8 - onClientError: statusCode = 404, uri = /users/3, message = 
+2022-04-03 22:03:47,755 [DEBUG] from application.ErrorHandler in application-akka.actor.default-dispatcher-8 - onClientError: statusCode = 404, uri = /v1/user/1, message = 
+2022-04-03 22:04:04,223 [DEBUG] from application.ErrorHandler in application-akka.actor.default-dispatcher-8 - onClientError: statusCode = 404, uri = /v1/user/1, message = 
+2022-04-03 22:06:19,483 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-9 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2022-04-03 22:06:19,490 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-9 - Application started (Dev) (no global state)
+2022-04-03 22:07:00,913 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-shutdown-hook-1 - Stopping Akka HTTP server...
+2022-04-03 22:07:00,915 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-akka.actor.internal-dispatcher-2 - Terminating server binding for /0:0:0:0:0:0:0:0:9000
+2022-04-03 22:07:01,054 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-akka.actor.internal-dispatcher-11 - Running provided shutdown stop hooks

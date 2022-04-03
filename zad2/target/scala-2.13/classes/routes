@@ -1,0 +1,4 @@
+->         /v1/posts               v1.post.PostRouter
+->         /vi/products            v1.product.ProductRouter
+->         /v1/categories          v1.category.CategoryRouter
+->         /v1/users                v1.user.UserRouter
