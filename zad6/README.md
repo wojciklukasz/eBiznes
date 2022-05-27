@@ -1,4 +1,9 @@
 Cypress dashboard:
 https://dashboard.cypress.io/projects/cpqc5v/runs/1/overview
 
+
+Browserstack dashboard:
+https://automate.browserstack.com/dashboard/v2/public-build/UjMyM2VNSVd2M1JBenUyTHFTcENreFp0VTFYNjRqNkI4WDRhMG1FOUNNaXRZOTZNaWdnLzdqTUdxc01wVWZ1bTNCMnpad1pGMXBReG1GcXg1V2RKOGc9PS0tVjlrSVc2TXVFdm1HQ2V5MUJKSWRTUT09--bed07f00f05e8fa2584403d46e74eb31995faa87
+
+
 Przetestowana została aplikacja z poprzednego zadania
