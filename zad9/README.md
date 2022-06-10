@@ -1,5 +1,7 @@
 # Zad9
 
-The code is available here:
+Zadanie znajduje się w tym repozytorium:
 
-https://github.com/wojciklukasz/eBiznesZad9
+https://github.com/wojciklukasz/eBiznesZad8
+
+(pomyliłem kolejność zadań 8 i 9)
